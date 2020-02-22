@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F46K22 -DL -O11111114 -fo16 -N"C:\Users\yarat\Desktop\2nd Term\Micro\ProjectV2\DinoV2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\yarat\Desktop\2nd Term\Micro\ProjectV2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\yarat\Desktop\2nd Term\Micro\ProjectV2\" "DinoV2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Button.mcl" "__Lib_Sound.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 3875 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	DinoV2.c
+diagnostics: 1498	123	Compiled Successfully	DinoV2.c
+diagnostics: 0	127	All files Compiled in 390 ms	 
+hint: 0	1144	Used RAM (bytes): 94 (2%)  Free RAM (bytes): 3781 (98%)	Used RAM (bytes): 94 (2%)  Free RAM (bytes): 3781 (98%)
+hint: 0	1144	Used ROM (bytes): 64349 (98%)  Free ROM (bytes): 1187 (2%)	Used ROM (bytes): 64349 (98%)  Free ROM (bytes): 1187 (2%)
+diagnostics: 0	125	Project Linked Successfully	DinoV2.mcppi
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'DinoV2.mcppi' completed: 562 ms	 
+diagnostics: 0	103	Finished successfully: 15 May 2019, 23:42:54	DinoV2.mcppi

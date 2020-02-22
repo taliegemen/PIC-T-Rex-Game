@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Project\TrexGame.mcppi
+Project1=DinoV2.mcppi
+[ActiveProject]
+Index=1

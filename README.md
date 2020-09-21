@@ -8,4 +8,4 @@ All of the game frames are drawn by me with gimp so, feel free to use and change
 Please let me know if you want to contribute to this project.
 If this project helped you for any projects, you can kindly credit me :).
 Code explanation video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zqCbEdy454U/0.jpg)](https://www.youtube.com/watch?v=zqCbEdy454U)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YHX4Ceb5KCU/0.jpg)](https://www.youtube.com/watch?v=YHX4Ceb5KCU)
